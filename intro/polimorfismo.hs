@@ -1,0 +1,9 @@
+-- Num - Classe do tipo
+-- Instâncias
+-- Int
+-- Integer
+-- Float
+-- Double
+-- Fractinal
+-- Exemplo
+-- (+) :: Num a => a -> a -> a
